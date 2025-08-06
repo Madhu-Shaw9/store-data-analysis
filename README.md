@@ -36,29 +36,11 @@ The goal of this project is to explore and analyze retail store data using Excel
 
 ---
 
-## 📌 Usage
-
-You can use this file for:
-
-- Practicing Excel formulas and charts
-- Exploratory Data Analysis (EDA)
-- Creating pivot tables
-- Connecting to tools like Power BI or Python for visualization
-
----
-
 ## 💡 Future Improvements
 
 - Adding a dashboard for visual summaries
 - Including additional metrics like discounts, returns, etc.
 - Exporting insights using Python or Power BI
-
----
-
-## 📁 How to Access
-
-1. Clone the repository or download it as ZIP.
-2. Open `Store_Data_Analysis.xlsx` in MS Excel or Google Sheets.
 
 ---
 
@@ -69,9 +51,4 @@ You can use this file for:
 🗂️ Project: Store Data Analysis using Excel
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use for educational or learning purposes.
-
 
